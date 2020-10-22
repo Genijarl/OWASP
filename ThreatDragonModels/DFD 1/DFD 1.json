@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "DFD 1",
+    "owner": "Jarl",
+    "description": "Tegn et detaljert DFD diagram som inkluderer alle relevante komponenter som trengs for å gjøre en trusselmodellering av den nye kundeportalen."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DFD",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "IKT-447"
+  }
+}
